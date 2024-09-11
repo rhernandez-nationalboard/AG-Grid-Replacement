@@ -3,18 +3,42 @@
 ## Tanstack
 Link: https://tanstack.com/
 
-Stats
-- Weekly Downloads: 2M
-- Size: 760KB
+Pros:
+- Popular, 2M weekly downloads
+- Small, 760KB
 - Partnered with AG Grid
-- Headless ui
+- Easy to style since it's headless
 - Pagination is supported
+
+Cons:
+- Nested tables only supported through recursive models
 
 ## Prime React
 Link: https://primereact.org/datatable/
-- Unstyled option
-- Weekly Downloads: 153K
-- Size: 59MB
-- Figma support
 
+Pros:
+- Figma support
+- Client side pagination
+- Row expansion support
+- Customization through theming
+
+Cons:
+- Not super popular: 153K weekly downloads
+- Large: 59MB
+- No server side pagination
+- Entire components library
+
+## React Data Table
+Link: https://react-data-table-component.netlify.app/?path=/docs/getting-started-intro--docs
+
+Pros:
+- Small, 629KB
+- Expansion Support
+- Client Side / Server Side Pagination Support
+- Open Sourced Community Project
+- Customization through css overrides
+
+Cons:
+- Not Popular, 115K weekly downloads
+- Depends on styled-component-library
 
