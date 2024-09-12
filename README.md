@@ -9,9 +9,11 @@ Pros:
 - Partnered with AG Grid
 - Easy to style since it's headless
 - Pagination is supported
+- Nested table supported
+- Headless ui, easy to style
 
 Cons:
-- Nested tables only supported through recursive models
+
 
 ## Prime React
 Link: https://primereact.org/datatable/
@@ -37,8 +39,10 @@ Pros:
 - Client Side / Server Side Pagination Support
 - Open Sourced Community Project
 - Customization through css overrides
+- Select data can be retrieved by defining useState
 
 Cons:
 - Not Popular, 115K weekly downloads
 - Depends on styled-component-library
+- Cell customization is defined at column level with row as a parameter.
 
