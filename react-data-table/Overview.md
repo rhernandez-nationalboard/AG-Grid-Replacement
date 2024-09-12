@@ -11,10 +11,12 @@ const columns = [
 	{
 		name: 'Title',
 		selector: row => row.title,
+    // cell: (row) => (<div>{row.title}</div>)
 	},
 	{
 		name: 'Year',
 		selector: row => row.year,
+    // cell: (row) => (<div>{row.year}</div>)
 	},
 ];
 
