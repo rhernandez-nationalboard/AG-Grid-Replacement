@@ -2,6 +2,7 @@
 
 ## Tanstack
 Link: https://tanstack.com/
+Internal Project: https://github.com/NBBI-JRS/jrs-web-register/blob/spike/tan-stack/src/components/ui/table/table.tsx
 
 Pros:
 - Popular, 2M weekly downloads
@@ -32,6 +33,7 @@ Cons:
 
 ## React Data Table
 Link: https://react-data-table-component.netlify.app/?path=/docs/getting-started-intro--docs
+Internal Project: https://github.com/NBBI-JRS/jrs-web-register/tree/spike/react-data-table
 
 Pros:
 - Small, 629KB
