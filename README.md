@@ -2,6 +2,7 @@
 
 ## Tanstack
 Link: https://tanstack.com/
+
 Internal Project: https://github.com/NBBI-JRS/jrs-web-register/blob/spike/tan-stack/src/components/ui/table/table.tsx
 
 Pros:
@@ -11,7 +12,7 @@ Pros:
 - Easy to style since it's headless
 - Pagination is supported
 - Nested table supported
-- Headless ui, easy to style
+- Select supported using useState
 
 Cons:
 
@@ -33,6 +34,7 @@ Cons:
 
 ## React Data Table
 Link: https://react-data-table-component.netlify.app/?path=/docs/getting-started-intro--docs
+
 Internal Project: https://github.com/NBBI-JRS/jrs-web-register/tree/spike/react-data-table
 
 Pros:
@@ -45,6 +47,6 @@ Pros:
 
 Cons:
 - Not Popular, 115K weekly downloads
-- Depends on styled-component-library
+- Depends on styled-component-library5
 - Cell customization is defined at column level with row as a parameter.
 
